@@ -1,5 +1,5 @@
 # Log-ratio Inversion of Mixed Endmembers (LIME)
-Log-ratio Inversion of Mixed Endmembers (LIME) is a program for calculating the phase proportions in a rock given a bulk composition and the composition of each phase. The mathematical details, outputs, and example applications are fully described in the main text. Here, instructions are presented for performing calculations within LIME.
+Log-ratio Inversion of Mixed Endmembers (LIME) is a program for calculating the phase proportions in a rock given a bulk composition and the composition of each phase. The mathematical details, outputs, and example applications are fully described in the main text. Here, instructions are presented for performing calculations within LIME. Please cite this version as: **Prissel, Olive, and Krawczynski (2023) LIME: A log-ratio-based algorithm for petrologic mass-balance problems and uncertainty assessment. https://doi.org/10.5281/zenodo.8135804**
 
 ## Getting started
 The plotting commands and statistical functions in the source code for LIME require that MATLAB version 2019a or later, including the “Statistics and Machine Learning Toolbox”, be installed on your machine in order to perform a LIME calculation. To
